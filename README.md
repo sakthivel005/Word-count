@@ -4,6 +4,7 @@ To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
+
 Step 1:
 
 Open terminal and activate conda, then open jupyter notebook.
